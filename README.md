@@ -9,6 +9,3 @@ Brute Force Model of the Traveling Salesman Problem
 - Cycle through all permutations of n Cartesian points and compute the relative cost of each route
 - Find the route with the minimum cost
 - Swing and graphics visually model the shortest path
-
-
-
